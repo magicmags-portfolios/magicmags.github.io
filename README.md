@@ -1,9 +1,8 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-       ----------- <title> Maggie's portfolio </title>
-     --------------   <title> CSS font-family property </title>
-       ---------------- <style>      
+<title> Maggie's portfolio </title>
+<style>      
 body{  
     font-size:20px; color:#e012e7;  background-color:rgb(250, 250, 250);font-family: 'Georgia', Times, serif;
 }}
