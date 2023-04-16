@@ -30,5 +30,4 @@ I like to play league and Hogwarts Legacy.</p>
     </p>
     remote_theme: dieghernan/chulapa
  </body>
- remote_theme: dieghernan/chulapa
     </html> 
