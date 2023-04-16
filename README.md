@@ -28,9 +28,6 @@ I like to play league and Hogwarts Legacy.</p>
          <a href="www.linkedin.com/in/
         margaret-frye-53346623a">linkedin</a>  
         <a href="https://www.facebook.com/maggie.frye.54/">Facebook</a> 
-    <p> 
-         
-    </p>
  </body>
     </html> 
   
