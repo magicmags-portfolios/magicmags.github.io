@@ -10,7 +10,6 @@ body{
         </style>
     </head> 
     <h1> Me Myself and I </h1>
-    
     <p style="color:purple"
    <p> My name is Maggie and I have 2 pomeranians, Mattie, Blossom, and a kitty named Poppy.<br> I went to college and majored in <strong> Zoology </strong> and got an <strong> applied animal science degree in Veterinary technology. </strong> </p> </html> 
     <br>This is my first coding attempt to see if this is something that I can do it. <br>
