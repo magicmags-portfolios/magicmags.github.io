@@ -1,9 +1,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
- ------------       <link rel="Untitled.css" href="Untitled.css">
        ----------- <title> Maggie's portfolio </title>
-     ----------------   <meta charset="utf-8">
      --------------   <title> CSS font-family property </title>
        ---------------- <style>      
 body{  
