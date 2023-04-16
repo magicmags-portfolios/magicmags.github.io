@@ -15,8 +15,7 @@
 I like to play video games.</p>
     <h3> Things I like to achieve </h3> 
     <body> 
- <p style= "color:darkmagenta"</p>  Make two other projects one app and one game. So I can have 3 projects and then I may do some freelance stuff to profect my skills.<br>
-    Make the switch in careers. 
+ <p style= "color:darkmagenta"</p>  Make two other projects one app and one game. So I can have 3 projects and then I may do some freelance stuff to profect my skills.<br> Make the switch in careers. 
     <h4> Contact me </h4>
         <a href="www.linkedin.com/in/
         margaret-frye-53346623a">linkedin</a>  
