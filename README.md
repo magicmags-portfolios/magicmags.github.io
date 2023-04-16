@@ -16,12 +16,13 @@ body{
      <h2> Get To Know Me </h2>
      <p> <p style= "color:blue"</p>
  In my spare time I like to read and write poetry and play games with my friends. My goal by the end of the year is to create a project for my portfolio. My goal is to switch career and break into tech. 
-I like to play league and Hogwarts Legacy.</p>
+I like to play video games.</p>
     <h3> Things I like to achieve </h3> 
     <body> 
    <p> <p style= "color:darkmagenta"</p>  Make two other projects one app and one game. So I can have 3 projects and then I may do some freelance stuff to profect my skills.<br>
     Make the switch in careers. 
     <h4> Projects </h4>
+    
     <h5> Contact me </h5>
         <a href="www.linkedin.com/in/
         margaret-frye-53346623a">linkedin</a>  
