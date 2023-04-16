@@ -3,14 +3,10 @@
     <head>
 <title> Maggie's portfolio </title>
 <style>      
-body{  
-    font-size:20px; color:#e012e7;  background-color:rgb(250, 250, 250);font-family: 'Georgia', Times, serif;
-}}
-        </style>
+<body>
     </head> 
     <h1> Me Myself and I </h1>
-    <p style="color:purple"
-   <p> My name is Maggie and I have 2 pomeranians, Mattie, Blossom, and a kitty named Poppy.<br> I went to college and majored in <strong> Zoology </strong> and got an <strong> applied animal science degree in Veterinary technology. </strong> </p> </html> 
+   <p> My name is Maggie and I have 2 pomeranians, Mattie, Blossom, and a kitty named Poppy.<br> I went to college and majored in <strong> Zoology </strong> and got an <strong> Applied Animal Science degree in Veterinary technology. </strong> </p> </html> 
     <br>This is my first coding attempt to see if this is something that I can do it. <br>
  I have been a veterinary technician for the past three years. </p> 
      <h2> Get To Know Me </h2>
