@@ -28,6 +28,5 @@ I like to play league and Hogwarts Legacy.</p>
         margaret-frye-53346623a">linkedin</a>  
         <a href="https://www.facebook.com/maggie.frye.54/">Facebook</a> 
     </p>
-    remote_theme: dieghernan/chulapa
  </body>
     </html> 
