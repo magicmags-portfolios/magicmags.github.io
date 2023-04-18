@@ -1,4 +1,4 @@
-{
+
 <!DOCTYPE html>
   <html>
         <link rel="stylesheet" type="text/css" href="style.css">
@@ -18,4 +18,4 @@ I like to play video games.</p>
       <a href="www.linkedin.com/in/
         margaret-frye-53346623a">linkedin</a> 
         email: rotadimitni@gmail.com
-                                             }
+                                             
