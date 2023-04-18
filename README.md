@@ -6,7 +6,7 @@
     </head> 
     <h1> Me Myself and I </h1>
     <body>
-   <p1> My name is Maggie and I have 2 pomeranians, Mattie, Blossom, and a kitty named Poppy. I went to college and majored in <strong> Zoology </strong> and got an <strong> Applied Animal Science degree in Veterinary technology. </strong> </p> 
+   <p1> My name is Maggie and I have 2 pomeranians, Mattie, Blossom, and a kitty named Poppy. I went to college and majored in <strong> Zoology </strong> and got an <strong> Applied Animal Science degree in Veterinary technology. </strong> 
   <br> This is my first coding attempt to see if this is something that I can do it. </br>
   </p> 
 </body>
