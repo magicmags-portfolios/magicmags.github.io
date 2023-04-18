@@ -23,6 +23,6 @@ I like to play video games.
     <p4> 
       <a href="www.linkedin.com/in/
         margaret-frye-53346623a">linkedin</a> 
-        email: rotadimitni@gmail.com
         <a href="https://github.com/magicmags-portfolios"> Github </a>
+        email- rotadimtitni@gmail.com
 <html>
