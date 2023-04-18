@@ -15,9 +15,10 @@
      <h2> Get To Know Me </h2>
      <p2> 
  In my spare time I like to read and write poetry and play games with my friends. My goal by the end of the year is to create a project for my portfolio. My goal is to switch career and break into tech. 
-I like to play video games.</p>
+I like to play video games. 
+</p>
 <br>
-     </br>
+</br>
     <h3> Things I like to achieve </h3> 
     <body> 
    <p3> Make two other projects one app and one game. So I can have 3 projects and then I may do some freelance stuff to profect my skills.<br>
@@ -28,7 +29,7 @@ I like to play video games.</p>
       <a href="www.linkedin.com/in/
         margaret-frye-53346623a">linkedin</a>  <br>
         email: rotadimitni@gmail.com
-    </p>
- </body>
+     </p>
+    </body>
     </html> 
   
