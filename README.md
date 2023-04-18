@@ -24,5 +24,3 @@ I like to play video games.
       <a href="www.linkedin.com/in/
         margaret-frye-53346623a">linkedin</a> 
         email: rotadimitni@gmail.com
-    </p>
-  </html>
