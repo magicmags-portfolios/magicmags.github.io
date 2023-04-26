@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Welcome to coding part 1</title>
-    <link rel='stylesheet' href='style.css' type='text/css'>
+    <link rel='stylesheet' href='maggie.css' type='text/css'>
 </head>
 <body>
     <h1>Me Myself and I</h1>
