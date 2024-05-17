@@ -5,7 +5,10 @@
             color: rgb(167, 116, 214);
             margin: 0;
             padding: 0%;
-        }
+.profile
+    border: 2px solid #333; /* Change color and width as needed */
+ border-radius: 100%; /* Makes the border round for circular profile pictures */
+    }
         header{
 background-color: rgb(255, 255, 255) ;
 color:pink ;
