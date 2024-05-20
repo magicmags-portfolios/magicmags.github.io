@@ -1,0 +1,17 @@
+/* style.css */
+
+body {
+    font-size: 20px;
+    color: #e012e7;
+    background-color: rgb(250, 250, 250);
+    font-family: 'Georgia', Times, serif;
+}
+
+h1 {
+    font-weight: bold;
+    color: purple;
+}
+
+p {
+    color: blue;
+}
